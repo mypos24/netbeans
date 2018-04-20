@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+// shamika supun  weerasinghe
 package javapos;
 
 import java.awt.Color;
